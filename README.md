@@ -10,4 +10,6 @@ The hardware that you need for this are :
 - LCD board x 1
 - Arduino uno x 1
 
-I used RTClib for this program. This library is easy to use and able to get the date, time and day of the week accurately.
+I used RTClib for this program. This library is easy to use and able to get the date, time and day of the week accurately. here is some pictures about this project:
+
+
