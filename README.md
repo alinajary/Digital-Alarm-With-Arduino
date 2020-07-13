@@ -3,11 +3,11 @@ This is a Digital Alarm with Arduino uno and DS1307 RTC module. you can easily e
 
 The hardware that you need for this are :
 
-DS 1307
-32.768kHz Quartz Crystal X 1
-Coin cell CR2032 & the holder
-10k resistor x 2
-LCD board x 1
-Arduino uno x 1
+- DS 1307
+- 32.768kHz Quartz Crystal X 1
+- Coin cell CR2032 & the holder
+- 10k resistor x 2
+- LCD board x 1
+- Arduino uno x 1
 
 I used RTClib for this program. This library is easy to use and able to get the date, time and day of the week accurately.
