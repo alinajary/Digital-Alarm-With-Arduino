@@ -12,4 +12,4 @@ The hardware that you need for this are :
 
 I used RTClib for this program. This library is easy to use and able to get the date, time and day of the week accurately. here is some pictures about this project:
 
-![20200131_100302](https://user-images.githubusercontent.com/60741325/87355409-9d9bff00-c560-11ea-9f41-01340c265596.jpg)
+![20200131_100302](https://user-images.githubusercontent.com/60741325/87355691-13a06600-c561-11ea-94f2-b226e923df20.jpg)
